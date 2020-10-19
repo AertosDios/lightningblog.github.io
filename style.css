@@ -49,6 +49,9 @@ body {
 
 
 
+
+
+
 .post, .about {
     max-width: 800px;
     margin: 0 auto;
@@ -91,6 +94,7 @@ p {
 .contact {
     text-align: center;
 }
+
 
 
 
